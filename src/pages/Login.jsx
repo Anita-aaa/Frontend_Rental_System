@@ -44,15 +44,6 @@ function Login() {
 
   return (
     <div className='w-full h-screen bg-[#f7f7f8]' style={{ fontFamily: "'Exo 2', sans-serif" }}>
-      {/* navbar------------------------ */}
-      {/* <div className='p-2 px-8 w-full h-16 flex items-center bg-[#f7f7f8b8] fixed top-0 z-10 font-semibold'>
-        <div className='flex align-center items-center justify-start gap-2 w-1/3'>
-          <Link to="/products">
-            <img src="../src/assets/Logo2.png" alt="" className='rounded-full' width={"50px"} />
-          </Link>
-          <h2 className='text-2xl text-zinc-800 font-bold'>FarmBuddy</h2>
-        </div>
-      </div> */}
       <Navbar />
       {/* Back Arrow Section*/}
       <div className='flex justify-start p-4 mt-[64px]'>
