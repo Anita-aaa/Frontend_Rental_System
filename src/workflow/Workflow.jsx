@@ -1,8 +1,6 @@
 import React from "react";
 import Footer from "../components/Footer";
 import Navbar from "../components/Navbar";
-// import Rectangle73 from "../../../img/Rectangle73.png";
-// import videoPic from "../../../img/videoPic.png";
 
 const Workflow = () => {
   return (
